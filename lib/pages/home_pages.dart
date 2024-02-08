@@ -14,7 +14,7 @@ List<Movie> movieList = [
   Movie(
     description: 'Batman Movie',
     image: const AssetImage('assets/batman.jpg'),
-    name: 'The Batman',
+    name: 'TheBatman',
     actorList: [
       Actor(
         image: const AssetImage('assets/actor1.jpeg'),
